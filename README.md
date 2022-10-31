@@ -1,10 +1,8 @@
-# SOBRE MIM 
+# Sobre mim
 
-Ola meu nome e Matheus Castro
-
--Estou interesado em aprender
+Ola meu nome e Matheus Castro 👋
 
 -Estou aprendendo sobre programaçao
 
--vivo em Maringa 
+-vivo em Maringa no Estado de Floriano
 
