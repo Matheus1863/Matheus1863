@@ -1,8 +1,14 @@
 # Sobre mim
 
-Ola meu nome e Matheus Castro 👋
+-Ola meu nome e Matheus Castro 👋
 
--Estou aprendendo sobre programaçao
+-Estou no Ensino Medio
 
--vivo em Maringa no Estado de Floriano
+-Moro em Floriano
+
+-Tenho interesse em Advocacia 
+
+-Para me conhecer me segue no INSTAGRAM:
+
+@matheuscastro_santos
 
